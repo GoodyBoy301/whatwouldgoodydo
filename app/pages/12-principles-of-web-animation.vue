@@ -319,7 +319,7 @@
           </p>
           <p>
             These principles are not rigid laws, not even for me, and we certainly don't have to use them all together. The core
-            mission remains to create delightful experiences. and when used with purpose and grace, we stop building mere websites
+            mission remains to create delightful experiences and when used with purpose and grace, we stop building mere websites
             and start building web portals and worlds
           </p>
           <br />
