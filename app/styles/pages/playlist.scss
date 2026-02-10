@@ -1,0 +1,12 @@
+.playlist {
+  position: relative;
+  min-height: 100svh;
+  font-family: "Season VF Sans";
+  padding: 6.4rem 10rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  @include media("<phone") {
+    padding: 6.4rem 2rem;
+  }
+}

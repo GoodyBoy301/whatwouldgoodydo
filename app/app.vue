@@ -1,6 +1,12 @@
 <template>
   <div>
+    <Header />
+    <Home
+      :page="$router.currentRoute.value"
+      v-if="$router.currentRoute.value.name ? $router.currentRoute.value.name?.toString()?.length < 10 : false"
+    />
     <NuxtPage />
+    <Footer />
   </div>
 </template>
 
