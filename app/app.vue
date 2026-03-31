@@ -16,7 +16,7 @@ import Lenis from "@studio-freight/lenis";
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 
-const projName = ref(`WhatWhatGoodyDo?`);
+const projName = ref(`WhatWillGoodyDo?`);
 const projDesc = ref(`fragments of my imagination exposed to the light`);
 const projImg = ref(`https://cdn.whatwouldgoodydo.com/12-principles-of-animations.webp`);
 
